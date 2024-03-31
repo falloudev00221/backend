@@ -1,0 +1,95 @@
+
+body{
+
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+.block1connexion{
+
+
+background: linear-gradient(rgba(0, 0, 0, 0.799), rgba(0, 0, 0, 0.799)), url("../../../public/image/fond.jpg");
+height: 100vh;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+  }
+  .forget_password{
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  .creercompt{
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+  }
+
+  .creercompt a{
+
+    color: rgb(228, 189, 15);
+  }
+  .forget_password a {
+
+    color: white;
+  }
+
+  .champs{
+
+
+  }
+  .RED8PRODUCTION{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  input[type='password'] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .inscription{
+
+    color: rgb(7, 24, 146);
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

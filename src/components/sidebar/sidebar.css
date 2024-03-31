@@ -1,0 +1,65 @@
+#side_container{
+
+
+
+    width: 260px;
+    padding: 10px;
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.799), rgba(0, 0, 0, 0.799)), url("../../../public/image/fond.jpg");
+
+}
+
+#alpha{
+
+  width: fit-content;
+  margin-left: 30%;
+}
+#alpha2{
+  width: fit-content;
+  margin-left: 28%;
+
+}
+
+#ic2{
+
+  position:absolute;
+  margin-top: 28px;
+  margin-left: 20px;
+}
+
+#ic3{
+
+  position:absolute;
+  margin-top: 28px;
+  margin-left: 20px;
+}
+
+#ul_menu{
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    margin-top: 20px;
+}
+li a{
+
+    color:white;
+  text-decoration: none;
+
+
+}
+li{
+  padding: 20px;
+  margin-top: 10px;
+
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+li:hover{
+
+
+    background-color: rgb(70, 3, 3);
+    transition: 0.3s;
+}
